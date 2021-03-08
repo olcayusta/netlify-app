@@ -7,5 +7,5 @@ import {ChangeDetectionStrategy, Component} from '@angular/core';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class AppComponent {
-  title = 'Hello, world!';
+  title = 'Hello, VERCEL 2!';
 }
